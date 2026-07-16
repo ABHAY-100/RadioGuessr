@@ -7,10 +7,10 @@ export function RoundSummary({ rounds, totalScore, onRestart }) {
 
   // Compute Rank/Title
   const getRank = () => {
-    if (totalScore >= 80000) return { title: 'Global Radio Master', color: 'var(--accent)' };
-    if (totalScore >= 60000) return { title: 'Expert Cartographer', color: 'var(--success)' };
-    if (totalScore >= 40000) return { title: 'Broadcasting Scout', color: '#ffb300' };
-    if (totalScore >= 20000) return { title: 'Casual Listener', color: 'var(--text-secondary)' };
+    if (totalScore >= 40000) return { title: 'Global Radio Master', color: 'var(--accent)' };
+    if (totalScore >= 30000) return { title: 'Expert Cartographer', color: 'var(--success)' };
+    if (totalScore >= 20000) return { title: 'Broadcasting Scout', color: '#ffb300' };
+    if (totalScore >= 10000) return { title: 'Casual Listener', color: 'var(--text-secondary)' };
     return { title: 'Lost in Transmission', color: 'var(--error)' };
   };
 

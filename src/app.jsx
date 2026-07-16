@@ -150,7 +150,7 @@ export function App() {
 
   // Move to next round or show summary
   const nextRound = () => {
-    if (currentRoundIndex >= 19) {
+    if (currentRoundIndex >= 9) {
       setGameState('summary');
       if (totalScore > highScore) {
         localStorage.setItem('radioguessr_high_score', totalScore);
@@ -214,7 +214,7 @@ export function App() {
           <div class="game-stats">
             <div class="stat-item">
               <span class="label-micro">Round</span>
-              <span class="stat-value">{currentRoundIndex + 1} / 20</span>
+              <span class="stat-value">{currentRoundIndex + 1} / 10</span>
             </div>
             <div class="header-score-pill">
               <span class="label-micro">Total Score:</span>
@@ -317,7 +317,7 @@ export function App() {
               distance={rounds[rounds.length - 1]?.distance || 0}
               station={currentStation}
               onNext={nextRound}
-              isLastRound={currentRoundIndex === 19}
+              isLastRound={currentRoundIndex === 9}
             />
           )}
 
