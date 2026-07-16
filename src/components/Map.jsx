@@ -24,7 +24,7 @@ export function Map({ guess, onGuessSelect, actual, isRevealed }) {
         [90, 180]
       ],
       maxBoundsViscosity: 1.0,
-      worldCopyJump: true
+      worldCopyJump: false,
     });
 
     // Add CartoDB Dark Matter tile layer (gorgeous muted dark map)
@@ -32,6 +32,7 @@ export function Map({ guess, onGuessSelect, actual, isRevealed }) {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
       subdomains: 'abcd',
       maxZoom: 18,
+      noWrap: true,
     }).addTo(map);
 
     mapRef.current = map;
