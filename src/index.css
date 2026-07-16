@@ -149,7 +149,7 @@ h4 {
 }
 
 .logo-text {
-  font-size: 18px;
+  font-size: 21px;
   font-weight: 800;
   letter-spacing: -0.01em;
   background: linear-gradient(135deg, var(--text-primary) 30%, var(--accent) 100%);
@@ -1529,7 +1529,7 @@ h4 {
   }
 
   .logo-text {
-    font-size: 15px;
+    font-size: 18px;
   }
 
   .game-stats {
