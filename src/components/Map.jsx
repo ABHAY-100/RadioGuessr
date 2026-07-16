@@ -15,9 +15,9 @@ export function Map({ guess, onGuessSelect, actual, isRevealed }) {
     // Create Leaflet map instance
     const map = L.map(containerRef.current, {
       center: [20, 0],
-      zoom: 2,
+      zoom: 4,
       attributionControl: false,
-      minZoom: 1.5,
+      minZoom: 3,
       zoomControl: window.innerWidth > 640,
       maxBounds: [
         [-90, -180],
