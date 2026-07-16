@@ -18,7 +18,7 @@ export function Map({ guess, onGuessSelect, actual, isRevealed }) {
       zoom: 4,
       attributionControl: false,
       minZoom: 3,
-      zoomControl: window.innerWidth > 640,
+      zoomControl: false,
       maxBounds: [
         [-90, -180],
         [90, 180]
