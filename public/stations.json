@@ -1,0 +1,1570 @@
+[
+  {
+    "name": "BFM radio",
+    "country": "France",
+    "countrycode": "FR",
+    "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
+    "lat": 48.836382892654385,
+    "lon": 2.273617386817933,
+    "language": [
+      "French"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Radio Plus Mauritius",
+    "country": "Mauritius",
+    "countrycode": "MU",
+    "url": "https://stream.radioplus.mu:8000/radio.mp3",
+    "lat": -20.172583203502946,
+    "lon": 57.500985174432216,
+    "language": [
+      "English",
+      "French"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "Mauritian Rupee",
+      "code": "MUR"
+    }
+  },
+  {
+    "name": "Вести FM (AAC)",
+    "country": "The Russian Federation",
+    "countrycode": "RU",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
+    "lat": 55.78740639294666,
+    "lon": 37.578799724578865,
+    "language": [
+      "Russian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Russian Ruble",
+      "code": "RUB"
+    }
+  },
+  {
+    "name": "Deutschlandfunk | DLF | MP3 128k",
+    "country": "Germany",
+    "countrycode": "DE",
+    "url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web",
+    "lat": 52.4802578,
+    "lon": 13.3347639,
+    "language": [
+      "German"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Radio Liban Libre",
+    "country": "Lebanon",
+    "countrycode": "LB",
+    "url": "https://edge.mixlr.com/channel/qtqeb",
+    "lat": 33.95504910606795,
+    "lon": 35.6132259964943,
+    "language": [
+      "Arabic"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Lebanese Pound",
+      "code": "LBP"
+    }
+  },
+  {
+    "name": "Klubrádió 95,3",
+    "country": "Hungary",
+    "countrycode": "HU",
+    "url": "https://a7.asurahosting.com:8160/radio.mp3",
+    "lat": 47.486028093177474,
+    "lon": 19.055786132812504,
+    "language": [
+      "Hungarian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Hungarian Forint",
+      "code": "HUF"
+    }
+  },
+  {
+    "name": "BBC Afrique Radio",
+    "country": "The United Kingdom Of Great Britain And Northern Ireland",
+    "countrycode": "GB",
+    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8",
+    "lat": 51.51889792020728,
+    "lon": -0.1438710100046592,
+    "language": [
+      "English"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "British Pound",
+      "code": "GBP"
+    }
+  },
+  {
+    "name": "ICI Radio-Canada Première Montréal",
+    "country": "Canada",
+    "countrycode": "CA",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8",
+    "lat": 45.5201863454914,
+    "lon": -73.54923963546754,
+    "language": [
+      "English",
+      "French"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Canadian Dollar",
+      "code": "CAD"
+    }
+  },
+  {
+    "name": "Caracol Radio (Bogotá) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogotá, Colombia",
+    "country": "Colombia",
+    "countrycode": "CO",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac",
+    "lat": 4.6544085813455025,
+    "lon": -74.08432960510255,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Colombian Peso",
+      "code": "COP"
+    }
+  },
+  {
+    "name": "VRT Radio 1",
+    "country": "Belgium",
+    "countrycode": "BE",
+    "url": "http://icecast.vrtcdn.be/radio1-high.mp3",
+    "lat": 50.85325707417748,
+    "lon": 4.402635790952025,
+    "language": [
+      "Dutch",
+      "French",
+      "German"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "bandnews fm sp",
+    "country": "Brazil",
+    "countrycode": "BR",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8",
+    "lat": -23.59531909533537,
+    "lon": -46.71074509620667,
+    "language": [
+      "Portuguese"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Brazilian Real",
+      "code": "BRL"
+    }
+  },
+  {
+    "name": "Radio Fórmula - 104.1 FM - XERFR-FM - Grupo Fórmula - Ciudad de México",
+    "country": "Mexico",
+    "countrycode": "MX",
+    "url": "https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8",
+    "lat": 19.437057246001498,
+    "lon": -99.13135528564456,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Mexican Peso",
+      "code": "MXN"
+    }
+  },
+  {
+    "name": "RAC1",
+    "country": "Spain",
+    "countrycode": "ES",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
+    "lat": 41.39269184456459,
+    "lon": 2.145745754241944,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "PBO Radio",
+    "country": "Peru",
+    "countrycode": "PE",
+    "url": "http://n06.radiojar.com/2fse67zuv8hvv?1669054401=&rj-tok=AAABhJtuNOUAIi7Le3h5PA-2VA&rj-ttl=5",
+    "lat": -12.044357079255036,
+    "lon": -76.99218750000001,
+    "language": [
+      "Spanish",
+      "Quechua",
+      "Aymara"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Peruvian Sol",
+      "code": "PEN"
+    }
+  },
+  {
+    "name": "راديو الناس",
+    "country": "State Of Palestine",
+    "countrycode": "PS",
+    "url": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
+    "lat": 32.70075627080152,
+    "lon": 35.29718935489655,
+    "language": [
+      "Arabic"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Israeli New Shekel",
+      "code": "ILS"
+    }
+  },
+  {
+    "name": "mosaiquefm",
+    "country": "Tunisia",
+    "countrycode": "TN",
+    "url": "https://radio.mosaiquefm.net/mosalive",
+    "lat": 36.81452434591616,
+    "lon": 10.16990661621094,
+    "language": [
+      "Arabic"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "Tunisian Dinar",
+      "code": "TND"
+    }
+  },
+  {
+    "name": "Algérie Chaîne 3",
+    "country": "Algeria",
+    "countrycode": "DZ",
+    "url": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
+    "lat": 36.75338073815528,
+    "lon": 3.0498375917748497,
+    "language": [
+      "Arabic",
+      "Tamazight"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "Algerian Dinar",
+      "code": "DZD"
+    }
+  },
+  {
+    "name": "Radio Deejay",
+    "country": "Italy",
+    "countrycode": "IT",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8",
+    "lat": 45.47809346079712,
+    "lon": 9.167589247226717,
+    "language": [
+      "Italian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Sri FM",
+    "country": "Sri Lanka",
+    "countrycode": "LK",
+    "url": "http://207.148.74.192:7860/stream2.mp3",
+    "lat": 6.934606387087914,
+    "lon": 79.86373901367188,
+    "language": [
+      "Sinhala",
+      "Tamil"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Sri Lankan Rupee",
+      "code": "LKR"
+    }
+  },
+  {
+    "name": "Al araby",
+    "country": "Qatar",
+    "countrycode": "QA",
+    "url": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+    "lat": 25.387707746417775,
+    "lon": 51.52176439762116,
+    "language": [
+      "Arabic"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Qatari Riyal",
+      "code": "QAR"
+    }
+  },
+  {
+    "name": "CRI环球资迅广播",
+    "country": "China",
+    "countrycode": "CN",
+    "url": "https://sk.cri.cn/905.m3u8",
+    "lat": 28.40492941728833,
+    "lon": 120.66846716156644,
+    "language": [
+      "Standard Chinese"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Chinese Yuan",
+      "code": "CNY"
+    }
+  },
+  {
+    "name": "Teletica Radio",
+    "country": "Costa Rica",
+    "countrycode": "CR",
+    "url": "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8",
+    "lat": 9.938763279696108,
+    "lon": -84.10764276981355,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Costa Rican Colon",
+      "code": "CRC"
+    }
+  },
+  {
+    "name": "Power 98.7",
+    "country": "South Africa",
+    "countrycode": "ZA",
+    "url": "https://edge.iono.fm/xice/65_medium.aac",
+    "lat": -26.154979569323213,
+    "lon": 28.058052062988285,
+    "language": [
+      "Afrikaans",
+      "English",
+      "Ndebele",
+      "Xhosa",
+      "Zulu",
+      "Sotho",
+      "Northern Sotho",
+      "Tswana",
+      "Swazi",
+      "Venda",
+      "Tsonga"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "South African Rand",
+      "code": "ZAR"
+    }
+  },
+  {
+    "name": "CIN Khabar",
+    "country": "Nepal",
+    "countrycode": "NP",
+    "url": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60",
+    "lat": 27.680500963030536,
+    "lon": 85.32195121049882,
+    "language": [
+      "Nepali"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Nepalese Rupee",
+      "code": "NPR"
+    }
+  },
+  {
+    "name": "Radio Republika",
+    "country": "Poland",
+    "countrycode": "PL",
+    "url": "https://ssl-1.radiotvrepublika.pl:12698/stream",
+    "lat": 52.229819389893976,
+    "lon": 21.011725366115577,
+    "language": [
+      "Polish"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Polish Zloty",
+      "code": "PLN"
+    }
+  },
+  {
+    "name": "VOV1",
+    "country": "Vietnam",
+    "countrycode": "VN",
+    "url": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
+    "lat": 21.024945412407845,
+    "lon": 105.83816528320314,
+    "language": [
+      "Vietnamese"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Vietnamese Dong",
+      "code": "VND"
+    }
+  },
+  {
+    "name": "AIR Delhi FM Gold",
+    "country": "India",
+    "countrycode": "IN",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
+    "lat": 28.609601288333085,
+    "lon": 77.2119140625,
+    "language": [
+      "Hindi",
+      "English"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Indian Rupee",
+      "code": "INR"
+    }
+  },
+  {
+    "name": "Kosmos 94.1",
+    "country": "Namibia",
+    "countrycode": "NA",
+    "url": "https://edge.iono.fm/xice/88_high.mp3",
+    "lat": -22.577369247440284,
+    "lon": 17.07491683540866,
+    "language": [
+      "English"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "Namibian Dollar",
+      "code": "NAD"
+    }
+  },
+  {
+    "name": "WNYC 93.9 FM",
+    "country": "The United States Of America",
+    "countrycode": "US",
+    "url": "http://fm939.wnyc.org/wnycfm.aac",
+    "lat": 40.64730356252251,
+    "lon": -73.98742675781251,
+    "language": [
+      "English"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "United States Dollar",
+      "code": "USD"
+    }
+  },
+  {
+    "name": "正聲廣播電台FM104",
+    "country": "Taiwan, Republic Of China",
+    "countrycode": "TW",
+    "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8",
+    "lat": 25.045792240303445,
+    "lon": 121.52526855468751,
+    "language": [
+      "Standard Chinese"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "New Taiwan Dollar",
+      "code": "TWD"
+    }
+  },
+  {
+    "name": "Radio România Actualități",
+    "country": "Romania",
+    "countrycode": "RO",
+    "url": "https://stream4.srr.ro:8443/romania-actualitati",
+    "lat": 44.4411952555077,
+    "lon": 26.08449093508433,
+    "language": [
+      "Romanian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Romanian Leu",
+      "code": "RON"
+    }
+  },
+  {
+    "name": "Єдині новини 24 - BREAKING - LIVE",
+    "country": "Ukraine",
+    "countrycode": "UA",
+    "url": "https://online-news.radioplayer.ua/RadioNews",
+    "lat": 50.44991100658927,
+    "lon": 30.52442595461635,
+    "language": [
+      "Ukrainian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Ukrainian Hryvnia",
+      "code": "UAH"
+    }
+  },
+  {
+    "name": "Sky News Australia Radio",
+    "country": "Australia",
+    "countrycode": "AU",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac",
+    "lat": -33.94153531741429,
+    "lon": 151.0341758204815,
+    "language": [
+      "English"
+    ],
+    "region": "Oceania",
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD"
+    }
+  },
+  {
+    "name": "La Popu",
+    "country": "Argentina",
+    "countrycode": "AR",
+    "url": "https://liveradio.mediainbox.net/popular.mp3",
+    "lat": -31.414866720812977,
+    "lon": -64.1808307170868,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Argentine Peso",
+      "code": "ARS"
+    }
+  },
+  {
+    "name": "Radio One FM 91 Gwadar",
+    "country": "Pakistan",
+    "countrycode": "PK",
+    "url": "http://cc.vmakerhost.com:8147/stream",
+    "lat": 25.151354521662668,
+    "lon": 62.32303619384766,
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Pakistani Rupee",
+      "code": "PKR"
+    }
+  },
+  {
+    "name": "Newstalk Ireland",
+    "country": "Ireland",
+    "countrycode": "IE",
+    "url": "https://edge.audioxi.com/NT",
+    "lat": 52.98213663041763,
+    "lon": -7.492675781250001,
+    "language": [
+      "Irish",
+      "English"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "La Red 106.1 Guatemala",
+    "country": "Guatemala",
+    "countrycode": "GT",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac",
+    "lat": 14.644672122401682,
+    "lon": -90.5123233795166,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Guatemalan Quetzal",
+      "code": "GTQ"
+    }
+  },
+  {
+    "name": "El Espectador 810",
+    "country": "Uruguay",
+    "countrycode": "UY",
+    "url": "https://espectador-1.nty.uy/",
+    "lat": -34.91037506940214,
+    "lon": -56.17058783769608,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Uruguayan Peso",
+      "code": "UYU"
+    }
+  },
+  {
+    "name": "BNR Nieuwsradio",
+    "country": "The Netherlands",
+    "countrycode": "NL",
+    "url": "https://stream.bnr.nl/bnr_mp3_128_20",
+    "lat": 52.348556083081114,
+    "lon": 4.917610287666321,
+    "language": [
+      "Dutch"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Pyongyang Radio FM",
+    "country": "The Democratic Peoples Republic Of Korea",
+    "countrycode": "KP",
+    "url": "https://listen7.myradio24.com/69366",
+    "lat": 38.86991912631935,
+    "lon": 125.826416015625,
+    "language": [
+      "Korean"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "North Korean Won",
+      "code": "KPW"
+    }
+  },
+  {
+    "name": "987FM",
+    "country": "Singapore",
+    "countrycode": "SG",
+    "url": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
+    "lat": 1.2962761196418218,
+    "lon": 103.86062622070314,
+    "language": [
+      "English",
+      "Malay",
+      "Mandarin",
+      "Tamil"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Singapore Dollar",
+      "code": "SGD"
+    }
+  },
+  {
+    "name": "Bio Bio Valparaíso",
+    "country": "Chile",
+    "countrycode": "CL",
+    "url": "http://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio",
+    "lat": -33.65120829920498,
+    "lon": -70.44433593750001,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Chilean Peso",
+      "code": "CLP"
+    }
+  },
+  {
+    "name": "Elshinta FM Jakarta",
+    "country": "Indonesia",
+    "countrycode": "ID",
+    "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "lat": -6.218551906221569,
+    "lon": 106.7235233859312,
+    "language": [
+      "Indonesian"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Indonesian Rupiah",
+      "code": "IDR"
+    }
+  },
+  {
+    "name": "Radio Vaticana English",
+    "country": "The Holy See",
+    "countrycode": "VA",
+    "url": "https://radio.vaticannews.va/stream-en",
+    "lat": 41.90341413845876,
+    "lon": 12.452917098999023,
+    "language": [
+      "Latin",
+      "Italian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "P4 Norge (AAC HQ)",
+    "country": "Norway",
+    "countrycode": "NO",
+    "url": "https://p4.p4groupaudio.com/P04_AH",
+    "lat": 61.120930879735546,
+    "lon": 10.462401226998631,
+    "language": [
+      "Norwegian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Norwegian Krone",
+      "code": "NOK"
+    }
+  },
+  {
+    "name": "Hayat FM",
+    "country": "Jordan",
+    "countrycode": "JO",
+    "url": "https://dc1.serverse.com/proxy/kjxwtpdt/stream",
+    "lat": 31.998182513109327,
+    "lon": 35.87960958480836,
+    "language": [
+      "Arabic"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Jordanian Dinar",
+      "code": "JOD"
+    }
+  },
+  {
+    "name": "Réunion la 1ère (La1er)",
+    "country": "Reunion",
+    "countrycode": "RE",
+    "url": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
+    "lat": -21.1313045405615,
+    "lon": 55.506574279756485,
+    "language": [
+      "French"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Radio San Rafael 92.5 FM",
+    "country": "Bolivia",
+    "countrycode": "BO",
+    "url": "https://guri.tepuyserver.net:7098/stream",
+    "lat": -17.40069914041662,
+    "lon": -66.16859436035158,
+    "language": [
+      "Spanish",
+      "Quechua",
+      "Aymara"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Bolivian Boliviano",
+      "code": "BOB"
+    }
+  },
+  {
+    "name": "ORTB Radio Bénin",
+    "country": "Benin",
+    "countrycode": "BJ",
+    "url": "https://listen.radioking.com/radio/47608/stream/84430",
+    "lat": 9.36540155366242,
+    "lon": 2.5285720825195317,
+    "language": [
+      "French"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "West African CFA Franc",
+      "code": "XOF"
+    }
+  },
+  {
+    "name": "Radio Platinum Fm",
+    "country": "Ecuador",
+    "countrycode": "EC",
+    "url": "https://streamingecuador.com:8160/radioplatinum",
+    "lat": -0.1957956019765508,
+    "lon": -78.48037093877794,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "United States Dollar",
+      "code": "USD"
+    }
+  },
+  {
+    "name": "Top Radio",
+    "country": "Croatia",
+    "countrycode": "HR",
+    "url": "http://c5.hostingcentar.com:8000/streams/topradio/",
+    "lat": 45.76394543389568,
+    "lon": 15.9819370508194,
+    "language": [
+      "Croatian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "РТС - Радио Београд - 1",
+    "country": "Serbia",
+    "countrycode": "RS",
+    "url": "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8",
+    "lat": 44.825285717808896,
+    "lon": 20.455470085144047,
+    "language": [
+      "Serbian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Serbian Dinar",
+      "code": "RSD"
+    }
+  },
+  {
+    "name": "Polynésie 1ère",
+    "country": "French Polynesia",
+    "countrycode": "PF",
+    "url": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+    "lat": -17.67122831025464,
+    "lon": -149.41680908203128,
+    "language": [
+      "French"
+    ],
+    "region": "Oceania",
+    "currency": {
+      "name": "CFP Franc",
+      "code": "XPF"
+    }
+  },
+  {
+    "name": "La Radio del Sur",
+    "country": "Bolivarian Republic Of Venezuela",
+    "countrycode": "VE",
+    "url": "http://190.202.130.61:8000/lrds",
+    "lat": 10.483010723528064,
+    "lon": -66.858286857605,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Venezuelan Bolivar",
+      "code": "VES"
+    }
+  },
+  {
+    "name": "EXA FM: Pop Music in Spanish and English",
+    "country": "Antigua And Barbuda",
+    "countrycode": "AG",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+    "lat": 17.11798368837803,
+    "lon": -61.84765245057704,
+    "language": [
+      "English"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD"
+    }
+  },
+  {
+    "name": "Ifeng (Phoenix TV)",
+    "country": "Hong Kong",
+    "countrycode": "HK",
+    "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8",
+    "lat": 22.28455828638223,
+    "lon": 114.15772591654152,
+    "language": [
+      "Chinese",
+      "English"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Hong Kong Dollar",
+      "code": "HKD"
+    }
+  },
+  {
+    "name": "bTV Radio",
+    "country": "Bulgaria",
+    "countrycode": "BG",
+    "url": "https://cdn.bweb.bg/radio/btv-radio.mp3",
+    "lat": 42.683400760657435,
+    "lon": 23.31590369283479,
+    "language": [
+      "Bulgarian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Bulgarian Lev",
+      "code": "BGN"
+    }
+  },
+  {
+    "name": "Antena 1 Açores (Portugal)",
+    "country": "Portugal",
+    "countrycode": "PT",
+    "url": "https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8",
+    "lat": 37.77592514733745,
+    "lon": -25.499954223632816,
+    "language": [
+      "Portuguese"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Africa Radio Abidjan",
+    "country": "Coted Ivoire",
+    "countrycode": "CI",
+    "url": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+    "lat": 5.31988482674005,
+    "lon": -4.020309448242188,
+    "language": [
+      "French"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "West African CFA Franc",
+      "code": "XOF"
+    }
+  },
+  {
+    "name": "ČRo Plus",
+    "country": "Czechia",
+    "countrycode": "CZ",
+    "url": "https://rozhlas.stream/plus_mp3_128.mp3",
+    "lat": 50.07850373641097,
+    "lon": 14.43459749221802,
+    "language": [
+      "Czech"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Czech Koruna",
+      "code": "CZK"
+    }
+  },
+  {
+    "name": "BeachFM 106.3",
+    "country": "New Zealand",
+    "countrycode": "NZ",
+    "url": "http://s8.myradiostream.com:58408/",
+    "lat": -40.907696344555966,
+    "lon": 174.99956131057849,
+    "language": [
+      "English",
+      "Maori",
+      "New Zealand Sign Language"
+    ],
+    "region": "Oceania",
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD"
+    }
+  },
+  {
+    "name": "Radio Humilite",
+    "country": "Haiti",
+    "countrycode": "HT",
+    "url": "https://stream-176.zeno.fm/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSVJBLWZCV2JRMmFLMVU2aWJWSGdJQSIsImlhdCI6MTc2ODQzNDg0NiwiZXhwIjoxNzY4NDM0OTA2fQ.bFJ0HahbDyEPeJviTdDlWV71VkJEPXHHn7dzoXk8IUY",
+    "lat": -85.01911790297841,
+    "lon": -65.07408142089845,
+    "language": [
+      "French",
+      "Haitian Creole"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Haitian Gourde",
+      "code": "HTG"
+    }
+  },
+  {
+    "name": "TRT Radyo Haber",
+    "country": "Türkiye",
+    "countrycode": "TR",
+    "url": "https://trt.radyotvonline.net/trthaber",
+    "lat": 40.00289791655391,
+    "lon": 32.84912109375001,
+    "language": [
+      "Turkish"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Turkish Lira",
+      "code": "TRY"
+    }
+  },
+  {
+    "name": "Riduna-radio.com",
+    "country": "Guernsey",
+    "countrycode": "GG",
+    "url": "https://stream.radio.co/sa70b464db/listen",
+    "lat": 49.716072265334674,
+    "lon": -2.2031074762344365,
+    "language": [
+      "English"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Guernsey Pound",
+      "code": "GGP"
+    }
+  },
+  {
+    "name": "Toti Radio",
+    "country": "Slovenia",
+    "countrycode": "SI",
+    "url": "https://live.radio.si/Toti",
+    "lat": 46.55297294258766,
+    "lon": 15.647277832031252,
+    "language": [
+      "Slovenian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "SKAI 100.3 FM",
+    "country": "Greece",
+    "countrycode": "GR",
+    "url": "https://netradio.live24.gr/skai1003",
+    "lat": 37.94504159962574,
+    "lon": 23.67161571979523,
+    "language": [
+      "Greek"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Radio Folk",
+    "country": "Denmark",
+    "countrycode": "DK",
+    "url": "http://stream.radiojar.com/fqt2y0ds97zuv",
+    "lat": 55.669788923808184,
+    "lon": 12.600914016366008,
+    "language": [
+      "Danish"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Danish Krone",
+      "code": "DKK"
+    }
+  },
+  {
+    "name": "Falklands Radio 530 Stanley",
+    "country": "The Falkland Islands Malvinas",
+    "countrycode": "FK",
+    "url": "https://streaming.broadcastradio.com:8332/flklnd",
+    "lat": -51.721583890010585,
+    "lon": -57.81005859375001,
+    "language": [
+      "English"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Falkland Islands Pound",
+      "code": "FKP"
+    }
+  },
+  {
+    "name": "NetPro.TV Radio",
+    "country": "Madagascar",
+    "countrycode": "MG",
+    "url": "https://radio.netpro.tv/listen/netpro_radio/radio.mp3",
+    "lat": -20.50678207718623,
+    "lon": 47.02148437500001,
+    "language": [
+      "Malagasy",
+      "French"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "Malagasy Ariary",
+      "code": "MGA"
+    }
+  },
+  {
+    "name": "Active 107.4",
+    "country": "Cyprus",
+    "countrycode": "CY",
+    "url": "https://securestreams3.autopo.st:1417/active",
+    "lat": 35.16974778076024,
+    "lon": 33.36032867431641,
+    "language": [
+      "Greek",
+      "Turkish"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Sveriges Radio P1",
+    "country": "Sweden",
+    "countrycode": "SE",
+    "url": "https://live1.sr.se/p1-mp3-96",
+    "lat": 59.33482591295532,
+    "lon": 18.101949691772464,
+    "language": [
+      "Swedish"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Swedish Krona",
+      "code": "SEK"
+    }
+  },
+  {
+    "name": "MCOT Radio Chiangmai FM100.75",
+    "country": "Thailand",
+    "countrycode": "TH",
+    "url": "https://live-org-01-cdn.mcot.net/RegionRadio/ChiangMai.stream_aac/playlist.m3u8",
+    "lat": 18.79930299460819,
+    "lon": 99.02365453227932,
+    "language": [
+      "Thai"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Thai Baht",
+      "code": "THB"
+    }
+  },
+  {
+    "name": "Radio 100komma7",
+    "country": "Luxembourg",
+    "countrycode": "LU",
+    "url": "http://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3",
+    "lat": 49.62221151291465,
+    "lon": 6.152285474818201,
+    "language": [
+      "Luxembourgish",
+      "French",
+      "German"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Útvarp Saga",
+    "country": "Iceland",
+    "countrycode": "IS",
+    "url": "https://stream.utvarpsaga.is/Hljodver",
+    "lat": 64.14003957306845,
+    "lon": -21.90259306150723,
+    "language": [
+      "Icelandic"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Icelandic Krona",
+      "code": "ISK"
+    }
+  },
+  {
+    "name": "Yle Radio Suomi, Turku",
+    "country": "Finland",
+    "countrycode": "FI",
+    "url": "http://icecast.live.yle.fi/radio/YleTurku/icecast.audio",
+    "lat": 60.45162600843974,
+    "lon": 22.26684093475342,
+    "language": [
+      "Finnish",
+      "Swedish"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "AUSTRIA FIRST – Österreichs Patriotenradio",
+    "country": "Austria",
+    "countrycode": "AT",
+    "url": "https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q",
+    "lat": 48.20825324323258,
+    "lon": 16.372611522674564,
+    "language": [
+      "German"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Radio 32",
+    "country": "Switzerland",
+    "countrycode": "CH",
+    "url": "https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web",
+    "lat": 47.20411757986243,
+    "lon": 7.542800903320313,
+    "language": [
+      "German",
+      "French",
+      "Italian",
+      "Romansh"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Swiss Franc",
+      "code": "CHF"
+    }
+  },
+  {
+    "name": "La Voz del Pacoredo",
+    "country": "The Dominican Republic",
+    "countrycode": "DO",
+    "url": "https://stream-50.zeno.fm/9zxyvh9vrhruv",
+    "lat": 18.47172887070236,
+    "lon": -69.88368988037111,
+    "language": [
+      "Spanish"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Dominican Peso",
+      "code": "DOP"
+    }
+  },
+  {
+    "name": "Unity FM 905",
+    "country": "Saint Lucia",
+    "countrycode": "LC",
+    "url": "http://centova12.instainternet.com:8192/;",
+    "lat": 14.009612426781622,
+    "lon": -60.98961353302003,
+    "language": [
+      "English"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD"
+    }
+  },
+  {
+    "name": "Fame 95 FM",
+    "country": "Jamaica",
+    "countrycode": "JM",
+    "url": "https://stream.zeno.fm/wbsd59gcgy5tv",
+    "lat": 17.99759595488556,
+    "lon": -76.79656326770784,
+    "language": [
+      "English"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Jamaican Dollar",
+      "code": "JMD"
+    }
+  },
+  {
+    "name": "Zefir FM",
+    "country": "Belarus",
+    "countrycode": "BY",
+    "url": "https://stream2.datacenter.by/zefirfm",
+    "lat": 53.14324648738053,
+    "lon": 29.217549562454227,
+    "language": [
+      "Belarusian",
+      "Russian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Belarusian Ruble",
+      "code": "BYN"
+    }
+  },
+  {
+    "name": "Kan Bet",
+    "country": "Israel",
+    "countrycode": "IL",
+    "url": "https://kanbet.media.kan.org.il/hls/live/2024811/2024811/playlist.m3u8",
+    "lat": 32.01925415944079,
+    "lon": 34.54101562500001,
+    "language": [
+      "Hebrew"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Israeli New Shekel",
+      "code": "ILS"
+    }
+  },
+  {
+    "name": "WKAQ 580",
+    "country": "Puerto Rico",
+    "countrycode": "PR",
+    "url": "https://televicentro.streamguys1.com/wkaqam-icy?key=a548fad34362b181adc2d8c3cc86b7cf1d424ef2d81c4050b3e6e1ba21f8de3d&source=tunein&source=TuneIn&us_privacy=1YNY&bundle=tunein.com&lat=18.4038&long=-66.1493&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1772682016&aw_0_1st.bundleId=tunein.com&lon=-66.1493&listenerid=555c2c74177be24010a700c94e4e5933&aw_0_1st.abtest=&partnerId=RadioTime&aw_0_1st.stationId=s30075&aw_0_1st.premium=false&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g255&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=dsk.Web&aw_0_azn.planguage=[iv,%20es]&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a116918,a40075,a39100&aw_0_1st.bandId=1&delivery=1&aw_0_1st.lotamesegments=;;",
+    "lat": 18.404569721972237,
+    "lon": -66.15810826317448,
+    "language": [
+      "Spanish",
+      "English"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "United States Dollar",
+      "code": "USD"
+    }
+  },
+  {
+    "name": "Phnom Penh Radio FM 103",
+    "country": "Cambodia",
+    "countrycode": "KH",
+    "url": "http://radio99.servradio.com:9294/",
+    "lat": 11.5564,
+    "lon": 104.9282,
+    "language": [
+      "Khmer"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Cambodian Riel",
+      "code": "KHR"
+    }
+  },
+  {
+    "name": "MBS Radio",
+    "country": "The Philippines",
+    "countrycode": "PH",
+    "url": "https://stream-171.zeno.fm/67srwcmawgqtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2N3Nyd2NtYXdncXR2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9JOGhDX0VfU0c2SXNBcDZmM1JzNnciLCJpYXQiOjE3MTU5NTQ1NzUsImV4cCI6MTcxNTk1NDYzNX0.VriCaRn4HyN7yDVnwXeryLgfMKkV4y_aJzugoJJ9Yeg",
+    "lat": 14.810266321955275,
+    "lon": 121.04755202965896,
+    "language": [
+      "Filipino",
+      "English"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Philippine Peso",
+      "code": "PHP"
+    }
+  },
+  {
+    "name": "Kaguraadio",
+    "country": "Estonia",
+    "countrycode": "EE",
+    "url": "https://locomanoco.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8",
+    "lat": 58.052897057327066,
+    "lon": 27.042846679687504,
+    "language": [
+      "Estonian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "Nhyira 104.5 FM",
+    "country": "Ghana",
+    "countrycode": "GH",
+    "url": "https://mmg.streamguys1.com/NhyiraFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "lat": 6.5553674,
+    "lon": -0.772545,
+    "language": [
+      "English"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "Ghanaian Cedi",
+      "code": "GHS"
+    }
+  },
+  {
+    "name": "ABC Cardinal 730AM",
+    "country": "Paraguay",
+    "countrycode": "PY",
+    "url": "http://media.streambrothers.com:18342/stream",
+    "lat": -25.286154811556575,
+    "lon": -57.63477087020875,
+    "language": [
+      "Spanish",
+      "Guarani"
+    ],
+    "region": "Americas",
+    "currency": {
+      "name": "Paraguayan Guarani",
+      "code": "PYG"
+    }
+  },
+  {
+    "name": "Radio Melodija",
+    "country": "Latvia",
+    "countrycode": "LV",
+    "url": "https://live.relaxfm.lv/08",
+    "lat": 56.934337883606126,
+    "lon": 24.11770612965959,
+    "language": [
+      "Latvian"
+    ],
+    "region": "Europe",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR"
+    }
+  },
+  {
+    "name": "BUZZ FM 96.3",
+    "country": "Vanuatu",
+    "countrycode": "VU",
+    "url": "https://streamer.dailypost.vu/live",
+    "lat": -17.67941448940385,
+    "lon": 168.43466877937317,
+    "language": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "region": "Oceania",
+    "currency": {
+      "name": "Vanuatu Vatu",
+      "code": "VUV"
+    }
+  },
+  {
+    "name": "Arirang Radio",
+    "country": "The Republic Of Korea",
+    "countrycode": "KR",
+    "url": "http://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/arirang_3ch_audio/chunklist_b128000.m3u8",
+    "lat": 37.557061945807966,
+    "lon": 127.02392578125,
+    "language": [
+      "Korean"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "South Korean Won",
+      "code": "KRW"
+    }
+  },
+  {
+    "name": "Lratvakan Radio",
+    "country": "Armenia",
+    "countrycode": "AM",
+    "url": "http://212.34.233.78:8000/live",
+    "lat": 40.17761257410072,
+    "lon": 44.5126620418968,
+    "language": [
+      "Armenian"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Armenian Dram",
+      "code": "AMD"
+    }
+  },
+  {
+    "name": "REDfm",
+    "country": "Malaysia",
+    "countrycode": "MY",
+    "url": "https://22273.live.streamtheworld.com/RED_FMAAC.aac",
+    "lat": 1.5539071244928604,
+    "lon": 110.34106582403184,
+    "language": [
+      "Malay"
+    ],
+    "region": "Asia",
+    "currency": {
+      "name": "Malaysian Ringgit",
+      "code": "MYR"
+    }
+  },
+  {
+    "name": "SBC Radyo Sesel",
+    "country": "Seychelles",
+    "countrycode": "SC",
+    "url": "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8",
+    "lat": -4.6191,
+    "lon": 55.4513,
+    "language": [
+      "English",
+      "French",
+      "Seychellois Creole"
+    ],
+    "region": "Africa",
+    "currency": {
+      "name": "Seychellois Rupee",
+      "code": "SCR"
+    }
+  },
+  {
+    "name": "Letio Tonga",
+    "country": "Tonga",
+    "countrycode": "TO",
+    "url": "https://stream.zeno.fm/wnd22q3485quv",
+    "lat": -21.1419307,
+    "lon": -175.2182008,
+    "language": [
+      "Tongan",
+      "English"
+    ],
+    "region": "Oceania",
+    "currency": {
+      "name": "Tongan Paanga",
+      "code": "TOP"
+    }
+  }
+]
