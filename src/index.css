@@ -125,17 +125,6 @@ h4 {
   position: relative;
 }
 
-.main-header {
-  height: 64px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 32px;
-  border-bottom: 1px solid var(--border-color);
-  background-color: var(--bg-surface);
-  z-index: 100;
-}
-
 .logo-container {
   display: flex;
   align-items: center;
@@ -155,18 +144,6 @@ h4 {
   background: linear-gradient(135deg, var(--text-primary) 30%, var(--accent) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-
-.game-stats {
-  display: flex;
-  align-items: center;
-  gap: 24px;
-}
-
-.stat-item {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
 }
 
 .stat-value {
@@ -233,7 +210,7 @@ h4 {
   display: flex;
   flex-direction: column;
   position: relative;
-  height: calc(100vh - 64px);
+  height: 100vh;
   overflow: hidden;
 }
 
@@ -1128,17 +1105,6 @@ h4 {
   color: var(--text-secondary);
 }
 
-/* UI Details and Helper styles */
-.header-score-pill {
-  position: absolute;
-  top: 76px;
-  right: 12px;
-  z-index: 50;
-  background-color: var(--bg-glass);
-  backdrop-filter: blur(12px);
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
-}
-
 .pulse-visualizer-container {
   display: flex;
   align-items: center;
@@ -1149,10 +1115,6 @@ h4 {
 
 /* Responsive adjustments */
 @media (max-width: 640px) {
-  .main-header {
-    padding: 0 16px;
-  }
-
   .player-dock {
     width: calc(100% - 24px);
     bottom: 16px;
@@ -1162,6 +1124,18 @@ h4 {
 
   .player-actions {
     gap: 8px;
+  }
+
+  .floating-stats {
+    top: 12px;
+    right: 12px;
+    gap: 6px;
+  }
+  .stat-pill {
+    padding: 4px 10px;
+  }
+  .stat-pill .stat-value {
+    font-size: 12px;
   }
 
   .volume-control {
@@ -1196,7 +1170,7 @@ h4 {
 /* Clues Floating Dock */
 .clues-dock {
   position: absolute;
-  top: 88px;
+  top: 24px;
   left: 24px;
   z-index: 50;
   background-color: var(--bg-glass);
@@ -1401,9 +1375,36 @@ h4 {
   opacity: 0.85;
 }
 
+.floating-stats {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  z-index: 50;
+  display: flex;
+  gap: 10px;
+}
+
+.stat-pill {
+  background-color: var(--bg-glass);
+  backdrop-filter: blur(12px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  border: 1px solid var(--border-color);
+  padding: 6px 14px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.stat-pill .stat-value {
+  font-size: 15px;
+  font-family: var(--font-heading);
+  font-weight: 700;
+}
+
 @media (max-width: 640px) {
   .clues-dock {
-    top: 76px;
+    top: 64px;
     left: 12px;
     width: calc(100% - 24px);
     flex-direction: column;
@@ -1512,32 +1513,17 @@ h4 {
     margin-bottom: 16px !important;
   }
 
-  /* Header */
-  .main-header {
-    padding: 0 12px;
-    height: 56px;
-  }
-
   .logo-text {
     font-size: 18px;
-  }
-
-  .game-stats {
-    gap: 12px;
   }
 
   .stat-value {
     font-size: 15px;
   }
 
-  .header-score-pill {
-    top: 68px;
-    right: 12px;
-  }
-
   /* Game Layout height adjustment */
   .game-layout {
-    height: calc(100vh - 56px);
+    height: 100vh;
   }
 
   /* Player Dock (Audio Player) */

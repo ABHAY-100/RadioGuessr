@@ -199,30 +199,19 @@ export function App() {
       {/* Toast Manager */}
       <ToastContainer toasts={toasts} onDismiss={removeToast} />
 
-      {/* Main Game Header */}
-      <header class="main-header">
-        <div class="logo-container">
-          {/* <svg class="logo-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="12" cy="12" r="10" />
-            <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />
-            <path d="M2 12h20" />
-          </svg> */}
-          <span class="logo-text">RadioGuessr</span>
-        </div>
-
-        {gameState !== 'welcome' && gameState !== 'summary' && (
-          <div class="game-stats">
-            <div class="stat-item">
-              <span class="label-micro">Round</span>
-              <span class="stat-value">{currentRoundIndex + 1} / 10</span>
-            </div>
-            <div class="header-score-pill">
-              <span class="label-micro">Total Score:</span>
-              <span class="stat-value" style={{ color: 'var(--accent)' }}>{totalScore.toLocaleString()}</span>
-            </div>
+      {/* Game Stats */}
+      {gameState !== 'welcome' && gameState !== 'summary' && (
+        <div class="floating-stats">
+          <div class="stat-pill">
+            <span class="label-micro">Score</span>
+            <span class="stat-value" style={{ color: 'var(--accent)' }}>{totalScore.toLocaleString()}</span>
           </div>
-        )}
-      </header>
+          <div class="stat-pill">
+            {/* <span class="label-micro">Round</span> */}
+            <span class="stat-value">{currentRoundIndex + 1} / 10</span>
+          </div>
+        </div>
+      )}
 
       {/* Welcome Screen Overlay */}
       {gameState === 'welcome' && (
@@ -336,12 +325,12 @@ export function App() {
           {gameState === 'playing' && currentStation && (
             <div class="clues-dock">
               <div class="clues-header">
-                <span class="label-micro" style={{ fontWeight: 800 }}>Radio Clues</span>
-                <span class={`multiplier-indicator penalty-${Object.values(cluesRevealed).filter(Boolean).length}`}>
+                <span class="label-micro" style={{ fontWeight: 800 }}>Clues</span>
+                {/* <span class={`multiplier-indicator penalty-${Object.values(cluesRevealed).filter(Boolean).length}`}>
                   {Object.values(cluesRevealed).filter(Boolean).length === 0 ? '100% Score' :
                    Object.values(cluesRevealed).filter(Boolean).length === 1 ? '70% Score' :
                    Object.values(cluesRevealed).filter(Boolean).length === 2 ? '40% Score' : '10% Score'}
-                </span>
+                </span> */}
               </div>
               
               <div class="clues-subinfo">
