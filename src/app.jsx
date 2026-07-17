@@ -237,7 +237,7 @@ export function App() {
             
             <h1 class="welcome-title">RadioGuessr</h1>
             <p class="welcome-desc">
-              Listen to live news radio broadcasts from around the world, pinpoint where the station is airing from, and drop your pin on the map.
+              Listen to live radio broadcasts from around the world, pinpoint where the station is airing from, and drop your pin on the map.
             </p>
 
             {highScore > 0 && (
@@ -257,7 +257,7 @@ export function App() {
                     <path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z" />
                   </svg>
                 </div>
-                <div class="step-text">Listen closely for accents, language, and news clues.</div>
+                <div class="step-text">Listen closely for accents, language, and other clues.</div>
               </div>
               <div class="step-card">
                 <div class="step-icon">
